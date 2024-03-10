@@ -1,9 +1,9 @@
 {
-  "name": "lottery-analysis",
+  "name": "lottery-analysis-zp",
   "main": "index.js",
   "version": "0.0.0",
   "authors": [
-    "danielxiaowxx <xiaohutu136@163.com>"
+    "danielxiaowxx <535677606@qq.com>"
   ],
   "license": "MIT",
   "ignore": [
@@ -13,6 +13,10 @@
     "test",
     "tests"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZEC0115/lottery-analysis-zp.git"
+  },
   "dependencies": {
     "angularjs": "~1.4.3",
     "bootstrap": "~3.3.5",
